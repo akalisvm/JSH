@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="VcsDirectoryMappings">
+    <mapping directory="$PROJECT_DIR$" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/debug" vcs="" />
+    <mapping directory="$PROJECT_DIR$/debug/delta-debugging-exercise-akalisvm" vcs="" />
+    <mapping directory="$PROJECT_DIR$/delta-debugging-exercise" vcs="" />
+    <mapping directory="$PROJECT_DIR$/delta-debugging-exercise/delta-debugging-exercise-akalisvm" vcs="" />
+    <mapping directory="$PROJECT_DIR$/jsh-team-38" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/jsh_test_files" vcs="Git" />
+  </component>
+</project>

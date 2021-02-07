@@ -1,0 +1,313 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="b414e7bd-345c-49ae-bf9e-afbc6952aa50" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/$PRODUCT_WORKSPACE_FILE$" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/dictionaries/Kchiyoh.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/jsh-team-38.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/com/antlr/math/generate/JshGrammar.interp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/com/antlr/math/generate/JshGrammar.tokens" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/com/antlr/math/generate/JshGrammarBaseListener.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/com/antlr/math/generate/JshGrammarBaseVisitor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/com/antlr/math/generate/JshGrammarLexer.interp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/com/antlr/math/generate/JshGrammarLexer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/com/antlr/math/generate/JshGrammarLexer.tokens" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/com/antlr/math/generate/JshGrammarListener.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/com/antlr/math/generate/JshGrammarParser.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/com/antlr/math/generate/JshGrammarVisitor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/jsh-team-38/.classpath" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/jsh-team-38/.devcontainer/Dockerfile" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/jsh-team-38/.devcontainer/devcontainer.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/jsh-team-38/.dockerignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/jsh-team-38/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/jsh-team-38/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/jsh-team-38/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/jsh-team-38/.idea/jsh-team-38.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/jsh-team-38/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/jsh-team-38/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/jsh-team-38/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/jsh-team-38/.project" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/jsh-team-38/.settings/org.eclipse.jdt.apt.core.prefs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/jsh-team-38/.settings/org.eclipse.jdt.core.prefs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/jsh-team-38/.settings/org.eclipse.m2e.core.prefs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/jsh-team-38/.vscode/launch.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/jsh-team-38/.vscode/settings.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/jsh-team-38/Dockerfile" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/jsh-team-38/jsh" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/jsh-team-38/jsh.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/jsh-team-38/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/jsh-team-38/readme.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/jsh-team-38/src/main/antlr4/uk/ac/ucl/jsh/JshGrammar.g4" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/jsh-team-38/src/test/java/uk/ac/ucl/jsh/AppFactoryTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/jsh-team-38/src/test/java/uk/ac/ucl/jsh/AssignTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/jsh-team-38/src/test/java/uk/ac/ucl/jsh/CatTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/jsh-team-38/src/test/java/uk/ac/ucl/jsh/CdTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/jsh-team-38/src/test/java/uk/ac/ucl/jsh/CheckQuotesTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/jsh-team-38/src/test/java/uk/ac/ucl/jsh/CutTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/jsh-team-38/src/test/java/uk/ac/ucl/jsh/EchoTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/jsh-team-38/src/test/java/uk/ac/ucl/jsh/FindTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/jsh-team-38/src/test/java/uk/ac/ucl/jsh/GlobbingTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/jsh-team-38/src/test/java/uk/ac/ucl/jsh/GrepTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/jsh-team-38/src/test/java/uk/ac/ucl/jsh/HeadTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/jsh-team-38/src/test/java/uk/ac/ucl/jsh/IOTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/jsh-team-38/src/test/java/uk/ac/ucl/jsh/JshInitializer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/jsh-team-38/src/test/java/uk/ac/ucl/jsh/JshTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/jsh-team-38/src/test/java/uk/ac/ucl/jsh/LsTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/jsh-team-38/src/test/java/uk/ac/ucl/jsh/PipeExceptionTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/jsh-team-38/src/test/java/uk/ac/ucl/jsh/PipeSetter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/jsh-team-38/src/test/java/uk/ac/ucl/jsh/PwdTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/jsh-team-38/src/test/java/uk/ac/ucl/jsh/SeqTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/jsh-team-38/src/test/java/uk/ac/ucl/jsh/SortTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/jsh-team-38/src/test/java/uk/ac/ucl/jsh/SubEdgeOneTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/jsh-team-38/src/test/java/uk/ac/ucl/jsh/SubEdgeTwoTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/jsh-team-38/src/test/java/uk/ac/ucl/jsh/SubTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/jsh-team-38/src/test/java/uk/ac/ucl/jsh/TailTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/jsh-team-38/src/test/java/uk/ac/ucl/jsh/UniqTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/jsh-team-38/src/test/java/uk/ac/ucl/jsh/WcTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/jsh-team-38/src/test/java/uk/ac/ucl/jsh/dirDeletionHandler.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/jsh-team-38/src/test/system/acceptance-tests.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/jsh-team-38/src/test/system/tests.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/jsh-team-38/tools/analysis" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/jsh-team-38/tools/coverage" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/jsh-team-38/tools/test" afterDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeInsightWorkspaceSettings">
+    <option name="optimizeImportsOnTheFly" value="true" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand />
+    <select />
+  </component>
+  <component name="FavoritesManager">
+    <favorites_list name="jsh-team-38" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/jsh-team-38" />
+    <option name="RESET_MODE" value="HARD" />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/jsh-team-38/src/main/java/uk/ac/ucl/jsh/Evaluator.java" root0="FORCE_HIGHLIGHTING" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="$USER_HOME$/Documents/apache-maven-3.6.3-bin/apache-maven-3.6.3" />
+        <option name="userSettingsFile" value="C:\Users\Kchiyoh\Documents\apache-maven-3.6.3-bin\apache-maven-3.6.3\conf\settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1kWC3w9fkqO0e2z3EL9YeK2pBdf" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="Downloaded.Files.Path.Enabled" value="false" />
+    <property name="Repository.Attach.Annotations" value="false" />
+    <property name="Repository.Attach.JavaDocs" value="false" />
+    <property name="Repository.Attach.Sources" value="false" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="extract.method.default.visibility" value="private" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="restartRequiresConfirmation" value="false" />
+    <property name="settings.editor.selected.configurable" value="preferences.editor" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Application.Jsh">
+    <configuration name="Jsh" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="uk.ac.ucl.jsh.Jsh" />
+      <module name="jsh-team-38" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="uk.ac.ucl.jsh.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="AppFactoryTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="jsh-team-38" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="uk.ac.ucl.jsh.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="uk.ac.ucl.jsh" />
+      <option name="MAIN_CLASS_NAME" value="uk.ac.ucl.jsh.AppFactoryTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="FindTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="jsh-team-38" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="uk.ac.ucl.jsh.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="uk.ac.ucl.jsh" />
+      <option name="MAIN_CLASS_NAME" value="uk.ac.ucl.jsh.FindTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="IOTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="jsh-team-38" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="uk.ac.ucl.jsh.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="uk.ac.ucl.jsh" />
+      <option name="MAIN_CLASS_NAME" value="uk.ac.ucl.jsh.IOTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="JshTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="jsh-team-38" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="uk.ac.ucl.jsh.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="uk.ac.ucl.jsh" />
+      <option name="MAIN_CLASS_NAME" value="uk.ac.ucl.jsh.JshTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Jsh" />
+        <item itemvalue="JUnit.AppFactoryTest" />
+        <item itemvalue="JUnit.IOTest" />
+        <item itemvalue="JUnit.FindTest" />
+        <item itemvalue="JUnit.JshTest" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="b414e7bd-345c-49ae-bf9e-afbc6952aa50" name="Default Changelist" comment="" />
+      <created>1605806764901</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1605806764901</updated>
+      <workItem from="1605806766190" duration="653000" />
+      <workItem from="1605808360950" duration="462000" />
+      <workItem from="1605808854116" duration="1870000" />
+      <workItem from="1605823630803" duration="14000" />
+      <workItem from="1605823657988" duration="68053000" />
+      <workItem from="1605938770086" duration="14787000" />
+      <workItem from="1605991915722" duration="31683000" />
+      <workItem from="1606083333619" duration="29900000" />
+      <workItem from="1606196758014" duration="13235000" />
+      <workItem from="1606277928107" duration="33458000" />
+      <workItem from="1606379352689" duration="5918000" />
+      <workItem from="1606467883510" duration="32392000" />
+      <workItem from="1606545067779" duration="27053000" />
+      <workItem from="1606626327183" duration="14135000" />
+      <workItem from="1606668709738" duration="212000" />
+      <workItem from="1606722160602" duration="37090000" />
+      <workItem from="1606774212068" duration="267000" />
+      <workItem from="1606791304717" duration="22598000" />
+      <workItem from="1606862440866" duration="9997000" />
+      <workItem from="1606942103283" duration="20944000" />
+      <workItem from="1607184504706" duration="247000" />
+      <workItem from="1607217371937" duration="6326000" />
+      <workItem from="1607338589301" duration="4526000" />
+      <workItem from="1607356018549" duration="254000" />
+      <workItem from="1607524681839" duration="4624000" />
+      <workItem from="1607774404656" duration="3135000" />
+      <workItem from="1607854301232" duration="12000" />
+      <workItem from="1607870698102" duration="2491000" />
+      <workItem from="1607947461800" duration="3000" />
+      <workItem from="1608170721385" duration="596000" />
+      <workItem from="1608626677048" duration="1232000" />
+      <workItem from="1608719673301" duration="302000" />
+      <workItem from="1608720003529" duration="291000" />
+      <workItem from="1608737205360" duration="282000" />
+      <workItem from="1608737505364" duration="11000" />
+      <workItem from="1608812925445" duration="2710000" />
+      <workItem from="1609207426202" duration="1165000" />
+      <workItem from="1610139926548" duration="452000" />
+      <workItem from="1612720709546" duration="968000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
